@@ -1,6 +1,7 @@
 {
   "name": "@zanejs/lint-config",
   "version": "1.0.1",
+  "description": "A powerful lint configuration collection that provides out-of-the-box code quality solutions for modern frontend projects.",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
