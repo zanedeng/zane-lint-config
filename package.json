@@ -1,6 +1,6 @@
 {
   "name": "@zanejs/lint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
@@ -14,7 +14,9 @@
     "build": "npm-run-all build:clean compile"
   },
   "files": [
-    "dist"
+    "dist",
+    "README.md",
+    "README.zh-CN.md"
   ],
   "main": "./dist/esm/index.js",
   "module": "./dist/esm/index.js",
